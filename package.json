@@ -1,0 +1,25 @@
+{
+  "name": "jscss-lite",
+  "version": "0.0.0",
+  "description": "Write Javascript-ish things in your CSS. Or call it `Embedded CSS` - write CSS in your Javascript!",
+  "repository": "tunnckoCore/jscss-lite",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "assertit": "^0.1.0"
+  },
+  "keywords": [
+    "css",
+    "embed",
+    "embedded",
+    "javascritp",
+    "js",
+    "jscss",
+    "preprocessor"
+  ]
+}
